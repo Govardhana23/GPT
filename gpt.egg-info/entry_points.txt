@@ -1,0 +1,2 @@
+[console_scripts]
+gptcode = gpt.main:main
